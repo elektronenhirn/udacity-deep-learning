@@ -1,3 +1,3 @@
 source activate dlnd
 
-jupyter notebook notes.ipynb
+jupyter notebook Notes.ipynb
